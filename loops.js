@@ -9,8 +9,8 @@ function forLoop(array){
   return array
 }
 
-function whileLoop (n) {}
-  return n
+function whileLoop (n) {
+  return n}
   
 function doWhileLoop(num) {
   
