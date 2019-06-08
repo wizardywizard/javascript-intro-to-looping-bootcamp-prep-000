@@ -15,7 +15,6 @@ function whileLoop (n) {
    console.log(--countdown){ 
      if(n===0)
       n.push('done')}}
-      
   return n}
   
 function doWhileLoop(num) {
